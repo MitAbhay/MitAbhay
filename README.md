@@ -1,5 +1,5 @@
-### Hi there 👋 
-# Myself Abhay
+<h2 align="center">Hi there 👋 </h2>
+<h1 align="center"> Myself Abhay</h1>
 
 <!--
 **MitAbhay/MitAbhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
