@@ -5,7 +5,7 @@
 
 - 👨‍💻 All about me [Abhay's Portfolio](https://abhay-kumar-mittal.herokuapp.com/)
 
-- 📝Sometimes I write articles on [My Blogs](https://mitabhay.blogspot.com/)
+- 📝 Sometimes I write articles on [My Blogs](https://mitabhay.blogspot.com/)
 
 - 💬 Ask me about **Web Development**
 
