@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abhay Kumar Mittal</h1>
+<style type="text/css">
+    .main{
+    display: flex;
+}
+
+</style>
+
+<h1 align="center">Hey 👋, I'm Abhay Kumar Mittal</h1>
 <h3 align="center">A passionate Student who always keeps learning new things.</h3>
-
-- 🌱 I’m currently learning **AI and ML**
-
+<div class="main">
+<div style="margin:auto">
+<ul>
+<li>🌱 I’m currently learning AI and ML</li>
+<li>📝Sometimes I write articles on <a href="https://mitabhay.blogspot.com/">My Blogs</a></li>
+<li>💬 Ask me about Web Development</li>
+<li>📫 You can reach me at leader.abhay002@gmail.com</li>
+</ul>
+</div>
+<img width="300" src="./assets/coding.gif">
+</div>
 <!-- - 👨‍💻 All about me [Abhay's Portfolio](https://abhay-kumar-mittal.herokuapp.com/) -->
-
-- 📝Sometimes I write articles on [My Blogs](https://mitabhay.blogspot.com/)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 You can reach me at **leader.abhay002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
