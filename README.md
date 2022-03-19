@@ -5,7 +5,7 @@
 
 </style> -->
 
-<h1 align="center">Hey 👋, I'm Abhay Kumar Mittal</h1>
+<h1 align="center">Hey 👋,I'm Abhay Kumar Mittal</h1>
 <h3 align="center">A passionate Student who always keeps learning new things.</h3>
 <div style="">
 <div style="margin:auto">
