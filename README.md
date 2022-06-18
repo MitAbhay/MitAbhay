@@ -1,14 +1,17 @@
-<style type="text/css">
+<!-- <style type="text/css">
     .main{
     display: flex;
 }
 
-</style>
+</style> -->
 
-<h1 align="center">Hey 👋, I'm Abhay Kumar Mittal</h1>
+<h1 align="center">Hey 👋,I'm Abhay Kumar Mittal</h1>
 <h3 align="center">A passionate Student who always keeps learning new things.</h3>
+
 <br />
 <div class="main">
+<div style="">
+
 <div style="margin:auto">
 <ul> 
 <li>🌱 I’m currently learning Everything</li>
